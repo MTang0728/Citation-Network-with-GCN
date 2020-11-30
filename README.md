@@ -37,7 +37,7 @@ K-Nearest Neighbors Classifier | Mean accuracy on training set: 1.00 <br>Mean ac
 ## Project Member:
 - Jennie Sun: [@Jennie Sun](https://github.com/jenniesun)
 - Michael Tang: [@Michael Tang](https://github.com/MTang0728)
-- Shangwen Yan: [@Shangwen Yan](https://github.com/notfy111)
-- Feng Yi: [@Feng Yi](https://github.com/shangwenyan)
+- Shangwen Yan: [@Shangwen Yan](https://github.com/shangwenyan)
+- Yi Feng: [@Yi Feng](https://github.com/notfy111)
 
 
